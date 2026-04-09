@@ -1,0 +1,10 @@
+Ollama (para el chat de proyecto)
+Descarga Ollama desde ollama.com/download
+Instala y ejecuta
+Descarga el modelo:
+bash: ollama pull llama3.2
+
+Gemini API Key (para chat de infraestructura)
+Ve a aistudio.google.com
+Crea una API Key gratuita
+Pégala en Configuración dentro de la app
