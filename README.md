@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/version-0.1.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%2011-lightgrey)
 ![Status](https://img.shields.io/badge/status-en%20desarrollo-yellow)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Apache-green)
 
 ---
 
@@ -56,3 +56,9 @@ Project Memory Assistant es una aplicación de escritorio construida con Electro
 ```bash
 # Versión recomendada: v24.x (gestionado con nvm)
 nvm use 24
+
+AUTOR: Unwanted Apps - github.com/unwantedx656-wq
+
+Licencia:
+
+Apache 2.0
